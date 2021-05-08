@@ -1,0 +1,20 @@
+
+        html {
+            background: url("../media/background.jpg") no-repeat center fixed;
+            background-size: cover;
+        }
+        img {
+            max-width: 100%;
+        }
+        div {
+            position: absolute;
+            width: 100px;
+            height: 200px;
+            background-color: black;
+        }
+        .whisky {
+            top: 300px;
+            height: 480px;
+            z-index: 1;
+            background-color: red;
+        }
